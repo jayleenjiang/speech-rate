@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large or external data not suitable for GitHub.
+EEG.zip
+*.raw
+*.zip
+25SU MHC/2025 Raw Data /
+
+# External/tutorial material and literature PDFs.
+Tutorials/
+lit/
